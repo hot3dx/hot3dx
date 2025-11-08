@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...Drawing Objects in 3D
 - 🌱 I’m currently learning ...C++, C Windows DirectX Graphics in XAML and Win32
 - 🌱 I’m currently learning ...winrt in C-17/C++20 UWP XAML
-- 🌱 Cureently migrating Rotodraw3D / Now Hot3dx Symmetry 3D to the above
+- 🌱 Currently migrating Rotodraw3D / Now Hot3dx Symmetry 3D to the above
+- 🌱 Using Visual Studio Enterprise 2022
+- 🌱 Using Visual Studio Enterprise 2026 preview
 - 📫 How to reach me ...hot3dx@hotmail.com
 - 
 Please support my work
